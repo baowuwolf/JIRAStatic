@@ -1,0 +1,41 @@
+问题总数: 206
+未解决个数: 0
+
+按优先级问题数量:
+优先级
+High        4
+Low         5
+Lowest     20
+Medium    177
+dtype: int64
+
+分模块问题总数:
+模块
+个人空间    16
+保险箱      5
+回收站      2
+团队空间     3
+备份中心     1
+存储池      1
+手机备份     5
+极音乐      2
+用户中心     7
+记事本      7
+闪电传      6
+dtype: int64
+
+每个人名下的问题个数:
+经办人
+chengxianhe     16
+chenliyan        2
+cuijianpeng      2
+lijingnan       56
+liruipeng       26
+shuguanghui      1
+tianyufei       10
+wenyuanbo       23
+yaohuimin        2
+yuchao          34
+zhangdengbin     1
+zhujiang        33
+dtype: int64
